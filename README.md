@@ -14,7 +14,7 @@ Of course, if you want to share your screen on the Internet, all you need to do 
 
 This tool can run on Linux, Windows and MAC.
 
-+ Python 2.x or 3.x
++ Python 3.x
 
 + Know issue: In Linux, this tool does not work with Wayland because of a <a href="https://fedoraproject.org/wiki/How_to_debug_Wayland_problems#Screen_capture_is_not_available_with_usual_apps">security reason</a>. You must use Xorg (by selecting Xorg on login).
 
